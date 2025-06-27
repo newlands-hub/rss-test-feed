@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>テストRSS</title>
+    <link>https://yourdomain.example/rss/</link>
+    <description>これはテスト用のRSSです</description>
+
+    <item>
+      <title>イギリスに関するリスク情報</title>
+      <link>https://yourdomain.example/news/uk001</link>
+      <pubDate>Fri, 28 Jun 2025 10:00:00 +0900</pubDate>
+      <description>イギリスのロンドンで抗議デモが予定されています</description>
+    </item>
+
+    <item>
+      <title>中東地域に関する警戒情報</title>
+      <link>https://yourdomain.example/news/middleeast001</link>
+      <pubDate>Fri, 28 Jun 2025 09:00:00 +0900</pubDate>
+      <description>中東地域での行動に注意してください</description>
+    </item>
+  </channel>
+</rss>
